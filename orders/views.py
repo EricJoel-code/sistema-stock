@@ -191,7 +191,7 @@ def manage_orders(request):
     }
     return render(request, 'admin_orders.html', context)
 
-@csrf_exempt  # Desactivar CSRF solo si usas fetch, si usas axios o jQuery, mejor incluir CSRF token.
+# @csrf_exempt  # Desactivar CSRF solo si usas fetch, si usas axios o jQuery, mejor incluir CSRF token.
 def update_order_status(request, order_id):
     if request.method == "POST":
         try:
