@@ -125,4 +125,4 @@ Desarrollador de Software | Backend & Frontend
 
 ## 📝 Nota Importante
 
-Este proyecto forma parte de un **portfolio profesional** y representa una **solución real**, aunque por motivos de confidencialidad no se encuentra desplegado públicamente.
+Este proyecto forma parte de un **portfolio profesional** y representa una **solución real**, aunque por motivos de confidencialidad el **link** no se encuentra públicamente.
